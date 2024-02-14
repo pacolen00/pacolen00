@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @pacolen00, student at IUP tyring to learn more about software engineering 
 
 
 <!---
